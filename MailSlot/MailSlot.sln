@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MailSlot", "MailSlot\MailSlot.vcxproj", "{42DFAD15-9366-4593-9380-E662F452F205}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MailSlot1", "MailSlot1\MailSlot1.vcxproj", "{EBB60695-6F6D-462D-88DB-5D7D15390C1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42DFAD15-9366-4593-9380-E662F452F205}.Debug|Win32.ActiveCfg = Debug|Win32
+		{42DFAD15-9366-4593-9380-E662F452F205}.Debug|Win32.Build.0 = Debug|Win32
+		{42DFAD15-9366-4593-9380-E662F452F205}.Release|Win32.ActiveCfg = Release|Win32
+		{42DFAD15-9366-4593-9380-E662F452F205}.Release|Win32.Build.0 = Release|Win32
+		{EBB60695-6F6D-462D-88DB-5D7D15390C1B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EBB60695-6F6D-462D-88DB-5D7D15390C1B}.Debug|Win32.Build.0 = Debug|Win32
+		{EBB60695-6F6D-462D-88DB-5D7D15390C1B}.Release|Win32.ActiveCfg = Release|Win32
+		{EBB60695-6F6D-462D-88DB-5D7D15390C1B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
